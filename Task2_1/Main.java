@@ -27,10 +27,10 @@ public class Main {
         System.out.println("The maximum positive value of array 2 = " + calculateMaxPositive.maxPositive(arrayD));
 
         System.out.println("The multiplication result of array 1 = " + calculateMultiplication.multiplication(arrayI));
-        System.out.println("The multiplication of array 2 = " + calculateMultiplication.multiplication(arrayD));
+        System.out.println("The multiplication result of array 2 = " + calculateMultiplication.multiplication(arrayD));
 
         System.out.println("The modulus result of array 1 = " + calculateModulus.modulus(arrayI));
-        System.out.println("The modulus of result 2 = " + calculateModulus.modulus(arrayD));
+        System.out.println("The modulus result of result 2 = " + calculateModulus.modulus(arrayD));
 
         System.out.println("The second maximal value of array 1 = " + calculateSecondLargest.secondLargest(arrayI));
         System.out.println("The second maximal value of array 2 = " + calculateSecondLargest.secondlargest(arrayD));
